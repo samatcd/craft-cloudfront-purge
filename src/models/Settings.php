@@ -1,7 +1,7 @@
 <?php
 
 /**
- * CloudFront Purge plugin for Craft CMS 3.x
+ * CloudFront Purge plugin for Craft CMS 4.x
  *
  * Invalidate the CloudFront cache on entry save
  *
